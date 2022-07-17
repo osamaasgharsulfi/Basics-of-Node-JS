@@ -1,0 +1,15 @@
+{
+  "name": "call-back-hell",
+  "version": "1.0.0",
+  "description": "Call back Concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "superagent": "^8.0.0"
+  }
+}
